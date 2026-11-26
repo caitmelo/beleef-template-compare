@@ -1,0 +1,8 @@
+bbc997f1c989de74b220e6779c2273388d3960af983f3a84208c353bb61e49f8  /workspace/template-compare-src/original/bands.py
+4847231cd7fb1db6ee271229d04296181685baaa9202e8e4d1ce2136672265d0  /workspace/template-compare-src/original/comp.py
+1b2749f99ac16474e8c4b76e84b23552173bc42eca54255e9a266551d1e63a54  /workspace/template-compare-src/original/ex.py
+589c26ab0f5b3a7683052a5c0c40400a2f3163425586da59817a2a7b867dc468  /workspace/template-compare-src/original/markup.py
+14500189980a4733f950655a713175a9cea2e1c6843c13e570bf605b106afa39  /workspace/template-compare-src/original/markup2.py
+18c916caf24f20141145671f65c38c736d87d618e8dfa79b90127ddd54aaa002  /workspace/template-compare-src/original/p1.py
+230d6a5b08a684ceed63e7a1a41eaace5c932b9c895fd6372d652d6722300e50  /workspace/template-compare-src/original/p2.py
+011eb65df16c9fc886938887d66bd0b4fcd6a413a93dcef7b9eb5234128ce859  /workspace/template-compare-src/original/v3.py
